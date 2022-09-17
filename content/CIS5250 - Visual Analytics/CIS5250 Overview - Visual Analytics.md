@@ -56,8 +56,8 @@ Weekly labs are counted toward the overall class grade as indicated in the Sylla
 | ---------------------- | -------------------------------------------------------------------------------------- |
 | Week-1: Aug 24         | Introduction Overview of Data Visualization                                            |
 | Week-2: Aug 31         | [[Week 2 Chapter 1 - The Importance of Context. Exploratory vs. Explanatory Analysis]] |
-| Week-3: Sept 7         | Chapter 2: Choosing an Effective Visual                                                |
-| Week-4: Sept 14        | Chapter 2: Choosing an Effective Visual  (Contd...)                                    |
+| Week-3: Sept 7         | [[Week 3 Chapter 2 - Choosing an Effective Visual ]]                                   |
+| Week-4: Sept 14        | [[Week 4 Chapter 2 - Choosing an Effective Visual  (Contd...)]]                                    |
 | Week-5: Sept 21        | Chapter 3: Clutter                                                                     |
 | Week-6: Sept 28        | Chapter 3: Clutter (Contd...)                                                          |
 | <u>Week-7: Oct 5</u>   |                                                                                        |
@@ -66,13 +66,13 @@ Weekly labs are counted toward the overall class grade as indicated in the Sylla
 | Week-10: Oct 26        |                                                                                        |
 | Week-11: Nov 2         |                                                                                        |
 | Week-12: Nov 9         |                                                                                        |
-| **Nov 11**             |  Holiday-Veterans Day                                                                                      |
+| **Nov 11**             | Holiday-Veterans Day                                                                   |
 | <u>Week-13: Nov 30</u> |                                                                                        |
 | **Nov 24**             | Fall Recess - No Classes; University Open                                              |
 | **Nov 25 - Nov 27**    | Holiday - Thanksgiving                                                                 |
-| <u>Week-14: Nov 30</u>        |                                                                                        |
-| <u>Week-15: Dec 5</u>              |                                                                                        |
-| Week-16: Dec 12              |                                                                                        |
+| <u>Week-14: Nov 30</u> |                                                                                        |
+| <u>Week-15: Dec 5</u>  |                                                                                        |
+| Week-16: Dec 12        |                                                                                        |
 
 ## Course Meetup
 | Week #                 | Topic                                     |

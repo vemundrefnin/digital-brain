@@ -49,7 +49,7 @@ Economic models
 
 Two general methods used to verify economic models:
 - Direct approach
-  establishes v….
+  establishes v….In 
 - …
 
 **Exogenous variable**, outside variables. Variables I can not change such as price of a product.
