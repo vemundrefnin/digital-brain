@@ -1,4 +1,4 @@
-baseURL = "http://brain.refnin.no"
+baseURL = "https://brain.refnin.no"
 languageCode = "en-us"
 googleAnalytics = "G-XYFD95KB4J"
 relativeURLs = false
