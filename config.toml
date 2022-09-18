@@ -1,6 +1,6 @@
 baseURL = "https://brain.refnin.no"
 languageCode = "en-us"
-googleAnalytics = "G-NED7Q8PSRX"
+googleAnalytics = "G-BY8S8P23YR"
 relativeURLs = false
 disablePathToLower = true
 ignoreFiles = [
