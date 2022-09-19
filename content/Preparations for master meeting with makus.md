@@ -38,7 +38,7 @@ I think we need to contact one of the following and ask if they can bee our supe
 
 ### Main Master Supervisors
 ![](attachments/Pasted%20image%2020220905095839.png)
-Jeg tenker Atle Øglend birker mes passende. Evt. Knut Erik Bang eller Roy Endre Dahl.
+Jeg tenker Atle Øglend birker mest passende. Evt. Knut Erik Bang eller Roy Endre Dahl.
 
 # Bedrift
 Har avtale med Blue Planet om de kan være med på Masteroppgaven.
