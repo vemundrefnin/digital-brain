@@ -1,8 +1,8 @@
 ---
 title: "Preperations for master meeting with Markus"
 tags:
-- master
 - meeting
+- master-thesis 
 ---
 # Preparations for Master Meeting with Markus
 Lenker:
