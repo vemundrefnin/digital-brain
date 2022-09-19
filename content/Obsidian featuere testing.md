@@ -6,7 +6,16 @@
 - [ ] a list
 
 	Tab will make a quote, and if a
+# Overskirft 1
+## overskirft 2
+### overskirft 3
 
+**hei**
+*kursiv*
+~~understrek~~
+
+
+[[starbucks]] har mange blabllabl
 | model | make | year |
 | ----- | ---- | ---- |
 | Mazda | cx-5 | 2020 |
