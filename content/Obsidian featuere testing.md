@@ -15,7 +15,6 @@
 ~~understrek~~
 
 
-[[starbucks]] har mange blabllabl
 | model | make | year |
 | ----- | ---- | ---- |
 | Mazda | cx-5 | 2020 |
