@@ -2,7 +2,6 @@
 #cis5250 #visual-analytics
 
 Professor [[Dr. Shilpa Balan]]
-[[test]]
 Must be there at:
 - 24-08-2022
 - 31-08-2022
@@ -28,7 +27,7 @@ Upon successful completion of this course, students should be able to:
 3.  Illustrate complex data with simple visualizations
 
 ## Required Textbook(s)
--   **Book Title:**  Storytelling with Data: A Data Visualization Guide for Business Professionals
+-   **Book Title:**  Storytelling with Data: A Data Visualization Guide for Business Professionals [Storytelling with Data - Book Notes](Storytelling%20with%20Data%20-%20Book%20Notes.md)
 -   **ISBN-10:** 1119002257         
 -   **ISBN-13:** 978-1119002253
 -   [E-Book Link](https://www.wiley.com/en-us/Storytelling+with+Data%3A+A+Data+Visualization+Guide+for+Business+Professionals-p-9781119002253 "Link")
@@ -57,11 +56,11 @@ Weekly labs are counted toward the overall class grade as indicated in the Sylla
 | Week-1: Aug 24         | Introduction Overview of Data Visualization                                            |
 | Week-2: Aug 31         | [[Week 2 Chapter 1 - The Importance of Context. Exploratory vs. Explanatory Analysis]] |
 | Week-3: Sept 7         | [[Week 3 Chapter 2 - Choosing an Effective Visual ]]                                   |
-| Week-4: Sept 14        | [[Week 4 Chapter 2 - Choosing an Effective Visual  (Contd...)]]                                    |
-| Week-5: Sept 21        | Chapter 3: Clutter                                                                     |
-| Week-6: Sept 28        | Chapter 3: Clutter (Contd...)                                                          |
-| <u>Week-7: Oct 5</u>   |                                                                                        |
-| Week-8: Oct 12         |                                                                                        |
+| Week-4: Sept 14        | [[Week 4 Chapter 2 - Choosing an Effective Visual  (Contd...)]]                        |
+| Week-5: Sept 21        | [[T-test]]                                                                             |
+| Week-6: Sept 28        | [[Week 6 - R-studio]]                                                                  |
+| <u>Week-7: Oct 5</u>   | [[Week 7 - More R-studio]]                                                             |
+| Week-8: Oct 12         | **Project-1 Due**                                                                      |
 | Week-9: Oct 19         |                                                                                        |
 | Week-10: Oct 26        |                                                                                        |
 | Week-11: Nov 2         |                                                                                        |
@@ -74,7 +73,7 @@ Weekly labs are counted toward the overall class grade as indicated in the Sylla
 | <u>Week-15: Dec 5</u>  |                                                                                        |
 | Week-16: Dec 12        |                                                                                        |
 
-## Course Meetup
+## Course Meetup (obsolete)
 | Week #                 | Topic                                     |
 | ---------------------- | ----------------------------------------- |
 | Week-1: Aug 24         |                                           |

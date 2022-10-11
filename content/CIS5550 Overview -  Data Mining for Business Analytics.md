@@ -27,9 +27,9 @@ I might need to update my [[R-studio]].
 | Date    | Topics                                          | Deliverable          |
 | ------- | ----------------------------------------------- | -------------------- |
 | Week 1  | Course Overview  Overview of Business Analytics |                      |
-| Week 2  | [[Install R and R Studio  R practice Basis of R]]  |                      |
+| Week 2  | Install R and R Studio  R practice Basis of R  |                      |
 | Week 3  | Data Preprocessing (Import Data & Clean Data)   | Indivd. Assignment 1 |
-| Week 4  | [[Data Preprocessing (Manipulate Data)]]            |                      |
+| Week 4  | Data Preprocessing (Manipulate Data)            |                      |
 | Week 5  | Summary Statistics & Data Visualization         |                      |
 | Week 6  | Visualize Data and Explore Data          | Indivd. Assignment 2         |
 | Week 7  | Visualize Data and Explore Data                 |                      |

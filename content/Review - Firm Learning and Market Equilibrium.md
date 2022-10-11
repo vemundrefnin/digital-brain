@@ -4,6 +4,7 @@ tags:
 - engagement-paper
 - research-review
 - economics
+- econ5100
 ---
 # Review - Firm Learning and Market Equilibrium
 Pakes: Improving Nash Equilbrium

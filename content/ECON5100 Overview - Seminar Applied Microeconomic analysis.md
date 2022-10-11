@@ -17,11 +17,13 @@ might be notation on bottom saying if it is "published"
 No homework for next week.
 
 ## Course Outline
+_The Following links are links to notes taken in class_.
+
 Week 1 Course Introduction
 [[Week 2 Introduction to Applied Economics]]
 [[Week 3 The Economic Model & Understanding Evidence]]
 [[Week 4 Deepening the Economic Model of Behavior]]
-[[Week 5 Methodology Case Study: Differences in Differences]]
+[[Week 5 Methodology Case Study - Differences in Differences]]
 [[Week 6 Early Life Influences and the Fetal Origins Literature]]
 [[Week 7 Environment and Health]]
 [[Week 8 Race, Policing, and Criminal Justice]]
