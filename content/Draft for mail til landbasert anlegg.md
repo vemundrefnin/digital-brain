@@ -3,7 +3,7 @@ title: "Draft for mail til landbasert anlegg"
 tags:
 - master-thesis
 ---
-# Draft for mail til landbasert anlegg
+# Draft for Mail Til Landbasert Anlegg
 Hei XYZ,
 
 Vi vil hjelpe dere!
@@ -17,11 +17,11 @@ Vi har forstått at fiskeoppdrett er en "Lean" næring og har derfor kanskje ikk
 Hvis dere ønsker å holde svarene konfidensielle så skriver vi gjerne under på en fortrolighetsavtale (NDA).
 
 **Spørsmål:**
-1.  Hva er deres største kostnader? Helst kom med minst 4 kostnader.
-2.  Hvilke kostnader har størst forbedringspotensial? (Trenger ikke være en av de beskrevet i spørsmål 1.)
-3.  Beskriv deres inntektskilder?
-4.  Har dere noen tanker rundt hvordan øke inntekten fra de kildene eller hvordan skape ny inntektskilder?
-5.  Hva er deres 5 største utfordringer?
+1. Hva er deres største kostnader? Helst kom med minst 4 kostnader.
+2. Hvilke kostnader har størst forbedringspotensial? (Trenger ikke være en av de beskrevet i spørsmål 1.)
+3. Beskriv deres inntektskilder?
+4. Har dere noen tanker rundt hvordan øke inntekten fra de kildene eller hvordan skape ny inntektskilder?
+5. Hva er deres 5 største utfordringer?
 
 **Vedlegg**
 1. Vemund Refnin sin CV
@@ -33,26 +33,17 @@ Hvis dere ønsker å holde svarene konfidensielle så skriver vi gjerne under p�
 - Vemund Refnin sin personlige nettside www.refnin.no
 - Bacheloroppgave https://uis.brage.unit.no/uis-xmlui/handle/11250/2774405
 
-
-## Fister smolt
+## Fister Smolt
 Hei Agnes Kleppa,
 Jeg (Vemund) skrev bacheloroppgave i samarbeid med Tytlandsvik Aqua i 2021. Jeg forstår at dere har et tett samarbeid med de.
-
-
 
 ## Trosnavåg
 Hei Atle Jøsang,
 
 Vi ble anbefalt å kontakte deg av Andreas Hakkestad i Blue Planet
 
-
-## Erko settefisk
+## Erko Settefisk
 Hei Rune Sandvik,
 
 Vi ble anbefalt å kontakte deg av Andreas Hakkestad i Blue Planet
-
-
-
-
-
 

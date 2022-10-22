@@ -1,8 +1,8 @@
 ---
 title: "SAS LAB 7 - Multiple Linear Regression"
 tags:
-- #visual-analytics 
-- #cis5250 
+- visual-analytics 
+- cis5250 
 ---
 # SAS LAB 7 - Multiple Linear Regression
 ![](attachments/Pasted%20image%2020220914193702.png)

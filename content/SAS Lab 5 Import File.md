@@ -1,4 +1,4 @@
-#visual-analytics #cis5250 
+#visual-analytics #cis5250
 # SAS Lab 5: Import File
 ![[Pasted image 20220831200637.png]]
 ![[Pasted image 20220831200703.png]]

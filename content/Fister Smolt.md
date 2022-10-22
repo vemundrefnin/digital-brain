@@ -1,7 +1,8 @@
 ---
 title: "Fister Smolt"
 tags:
-- #fish-farm
+- fish-farm
+- fish 
 ---
 # Fister Smolt
 - Driftsinntekter 2021: _61 866' NOK_ (2020: 43 213' NOK)

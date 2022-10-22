@@ -1,3 +1,4 @@
+# Mail to Lånekassen
 Hei,
 Jeg er på utveksling på California State University Los Angeles. Jeg mener at jeg får for lite støtte. Jeg har forsøkt å se på det på to ulike måter, uansett mangler jeg støtte.
 
@@ -21,7 +22,7 @@ Jeg tror det kan ha skjedd noe feil når jeg sendte inn grunnlag for stipendet s
 
 Det jeg har betalt til Cal State LA
 Tuition fee:
-$320 ganger 9 units  = $2,880.00
+$320 ganger 9 units = $2,880.00
 
 Fees included in the program:
 Student Health Insurance $ 780.00

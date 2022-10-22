@@ -1,6 +1,10 @@
-# Critical Reading or How To Make Sense of Publish Research
-#econ5100 #microeconomics #calstate
-
+---
+title: "Critical reading or How To Make Sense of Publish Research"
+tags:
+- econ5100
+- microeconomics
+- calstate
+---
 [[Doing Economics Chapter 6 1.pdf]]
 
 ## Identifying the Author´s Argument
@@ -12,7 +16,7 @@
 6. What emperical evidence does the author provide?
 7. What assumptions is the author making his or her reasoning?
 
-## Evaluating the Author´s argument
+## Evaluating the Author´s Argument
 1. Does the theoretical analysis make sense?
 2. Are the data used adequate to the task?
 3. Does the empirical methodology adequately?
@@ -20,9 +24,4 @@
 5. Is the analysis (theoretical and empirical) clearly explained?
 6. Do the conclusions follow from the evidence presented?
 7. On balance, is the author´s argument convincing to you?
-
-
-
-
-
 

@@ -1,8 +1,8 @@
 ---
 title: "A Random Walk Down Wall Street - Book Notes"
 tags:
-- #book-note
-- #investment
+- book-note
+- investment
 - 
 ---
 # A Random Walk Down Wall Street - Book Notes
@@ -47,5 +47,5 @@ In 1713 it was granted a trading monopoly in the region. Part of this was the _
 
 The South Sea Company began by offering those who bought stocks an incredible 6% interest. However, when the War of the Spanish Succession came to an end in 1713 with the Treaty of Utrecht, the expected trade explosion did not happen. Instead, Spain only allowed Britain a limited amount of trade and even took a percentage of the profits. Spain also taxed the importation of slaves and put strict limits on the numbers of ships Britain could send for ‘general trade’, which ended up being a single ship per year. This was unlikely to generate anywhere close to the profit that the South Sea Company needed to sustain it.
 
-This reminded me o the [[East Indian company]]  that we see in the [Tv-Show Taboo](Tv-Show%20Taboo.md).
+This reminded me o the [[East Indian company]] that we see in the [Tv-Show Taboo](Tv-Show%20Taboo.md).
 

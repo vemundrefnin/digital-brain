@@ -12,13 +12,13 @@ A few things to know about tags for Quartz and Obsidian.
 - When writing Quartz tags no autosuggestion is showing
 - When writing Obsidian tags (starting with #)autosuggestion is showing
 
-## Discord discussion 
+## Discord Discussion
 https://discord.com/channels/927628110009098281/927628110009098284/1021167575964586026
 
 	This is something that you could bring up in Obsidian forums/discord. I'm pretty sure if you add a `#` before typing while in the yaml it still autocompletes, so i'm sure there's a plugin that could just remove the `#` after
 
 -CyanDuck
 
-## Resources for solving the problem
+## Resources for Solving the Problem
 [Serhii Hamotsky blog post](https://serhii.net/blog/it/2021-11-29-211129-0126-obsidian-to-hugo-tags-script-and-template/) has a hacky solution with issues.
 

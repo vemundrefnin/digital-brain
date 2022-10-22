@@ -3,7 +3,7 @@ title: "Interactive maps"
 tags:
 - 
 ---
-# Interactive maps
+# Interactive Maps
 
 - mazemap
 - Concept3d

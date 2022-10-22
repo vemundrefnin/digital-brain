@@ -1,8 +1,8 @@
 ---
 title: "Grieg Seafood"
 tags:
-- #RAS
-- #fish-farm
+- RAS
+- fish-farm
 ---
 # Grieg Seafood
 Annlegg:

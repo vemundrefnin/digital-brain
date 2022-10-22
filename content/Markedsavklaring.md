@@ -12,4 +12,3 @@ tags:
 ## TODO
 - Beskriv hva dere har avdekket og hvordan dere jobber for å unngå negativ påvirkning.
 - Har bedriften etiske retningslinjer for virksomheten? dokument
-- 

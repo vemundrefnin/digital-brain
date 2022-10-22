@@ -1,9 +1,9 @@
 ---
 title: "Applying Gestalt Principles and Clutter Theory to Charts"
 tags:
-- #visual-analytics
-- #cis5250
-- #gestalt-principles
+- visual-analytics
+- cis5250
+- gestalt-principles
 ---
 # Applying Gestalt Principles and Clutter Theory to Charts
 
@@ -76,6 +76,4 @@ The colors and background for this chart is based on the firm’s theme. In my o
 Knaflic, C. N. (2015). _storytelling with data._ John Wiley & Sons, Inc.
 
 Few, S. (2012). _Show Me The Numbers._ Jonathan G. Koomey.
-
-
 

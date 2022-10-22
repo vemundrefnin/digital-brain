@@ -1,8 +1,8 @@
 #calstate 
 #cis5550 
 #business-analytics 
-#data-mining 
-# In-Class Participation Week 2 Data and descriptive statistics
+#data-mining
+# In-Class Participation Week 2 Data and Descriptive Statistics
 a)Mean - 2.Which measure represents the value where half the data points are above and the other half are below?
 
 b)Median - 6. What measures are robust to skewed data or extreme data?
@@ -16,15 +16,4 @@ e)Variance - 3.Which measure is the difference between the highest and lowest va
 f)Range
 
 g)Interquartile - 5.Which measure is the range of the middle half of the values?
-
-
-
-
-
-
-
-
-
-
-
 

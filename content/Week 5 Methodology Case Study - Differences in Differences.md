@@ -1,7 +1,7 @@
 ---
 title: "Week 5 Methodology Case Study - Differences in Differences"
 tags:
-- #econ5100
+- econ5100
 ---
 # Week 5 Methodology Case Study - Differences in Differences
 - Causal interference
@@ -17,9 +17,9 @@ X -> Y
 X "causes" Y
 
 Example:
-Infrastructure -> Decrease in Violence  
+Infrastructure -> Decrease in Violence
 $D_i=0$, No policy, Average level of violence: 100
-$D_i=1$,  Policy, Average level of violence: 150
+$D_i=1$, Policy, Average level of violence: 150
 
 This is not what we expected. We wanted Infrastructure to cause Decrease in violence. Instead it looks like decrease in violence cause more infrastructure spending. This is what we call selection bias.
 
@@ -39,7 +39,7 @@ $$D_i=1, V_{1i}-V_{0i}, \text{where } V_{0i} \text{ is the observer and } V_{1i}
 $$D_i=0, V_{1i}-V_{0i}$$
 $$E(V_{1i}-V_{0i}) = E(v_{1i}|D_i=1)-E(v_{0i}|D_i=1)$$
 
-## Simple Difference in Difference analysis
+## Simple Difference in Difference Analysis
 [Another youtube video.](https://www.youtube.com/watch?v=Q5QOCMIwjbg&ab_channel=MikeJonasEconometrics)
 
 Estimate impact of a treatment of a given outcome over time. impact of tutoring on students GPA?
@@ -57,7 +57,7 @@ Formula: How did things change if you where in the group B minus how did things 
 
 Counterfactual Treatment Group outcome:
 What would the treatment group outcome be treatment, if treatment had not occurred? This can not be answered because we do not know, it can not be observed.
-It would, by assumption, follow the same trend as the control group. 
+It would, by assumption, follow the same trend as the control group.
 Counterfactual outcome will be the original mean in period 1($Y_{B,1}$) plus the change experienced by the control group ($\bar{Y}_{A,2}-\bar{Y}_{A,1}$)
 
 |                  | Control (A) | Treated (B) | Counterfactual |
@@ -75,10 +75,10 @@ Let $D_{TREATi}=1$ if observation $i$ is in treatment group. $D_{POSTi}=1$ if ob
 $Y_i=b_0 + \delta_T D_{TREATi} + \delta_P D_{POSTi} + \delta (D_{TREATi})(D_{POSTi})$
 OLS estimate of $\delta_{DD}$ will git the ATE (Average Treatment Effect)
 
-## Frekonomics 
+## Frekonomics
 Abortion:
-Legalised abortion 1973 legal nation wide. One of the prime reason crime fell. 
-Roe v. Wade, data support the hypothesis saying that 18 years later the crime rates should fall. 
+Legalised abortion 1973 legal nation wide. One of the prime reason crime fell.
+Roe v. Wade, data support the hypothesis saying that 18 years later the crime rates should fall.
 # General Notes
 There is a vote about gambling.
 Online betting is going to be used for housing in California.
@@ -87,23 +87,20 @@ It is about more gambling for the tribes and online gambling.
 
 "Trump as president is scary" - Professor
 
-Can not go to texas, florida... 22 states. most red states he can not use state money. The money is part of your 10 year professor plan.
-
+Can not go to texas, florida… 22 states. most red states he can not use state money. The money is part of your 10 year professor plan.
 
 Should you use median or the mean?
 you choose the one that represents the population the best. We call this weighting
 
-
-Regression continuity and ... is the same as Diffrence-in-Diffrences observations.
+Regression continuity and … is the same as Diffrence-in-Diffrences observations.
 
 R squared do not mean a lot for an economist
 Important:
 - coefiiceint
 - statistical significance
-- ...
+- …
 
 Idea for paper. Look at some evironmental changes in other markets that is going to happen i the fish market. For esample taxing envriomental fotprint.
 
- 
 
 

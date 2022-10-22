@@ -3,15 +3,13 @@ title: "My Asset Pricing via Machine learning"
 tags:
 - 
 ---
-# My Asset Pricing via Machine learning
+# My Asset Pricing via Machine Learning
 
 This is heavily influenced by
 [Review - Empirical Asset Pricing via Machine Learning](Review%20-%20Empirical%20Asset%20Pricing%20via%20Machine%20Learning.md)
 and [Review - Empirical asset pricing via machine learning evidence from the European stock market](Review%20-%20Empirical%20asset%20pricing%20via%20machine%20learning%20evidence%20from%20the%20European%20stock%20market.md)
 
-
 I want to recreate the method they agree is the best. The latter paper is the newest and builds upon the first one. Therefore I am going to try to recreate/find the method they think is the best.
-
 
 **The method**
 1. _stochastic gradient descent_ (SGD) approach to train the neural networks.

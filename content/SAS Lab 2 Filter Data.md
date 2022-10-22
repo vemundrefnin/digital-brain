@@ -1,4 +1,4 @@
-#visual-analytics #cis5250 
+#visual-analytics #cis5250
 # SAS Lab 2 Filter Data
 ![](attachments/Screen%20Shot%202022-08-31%20at%2019.29.32.png)
 

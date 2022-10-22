@@ -1,7 +1,8 @@
 ---
 title: "Gestalt Principles of Visual Perception"
 tags:
-- 
+- visual-analytics 
+- cis5250 
 ---
 # Gestalt Principles of Visual Perception
 Principles to understand how individuals perceive order in the world around them. there are six principles of visual perceptions that where found in the 1900s. These are

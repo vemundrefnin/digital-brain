@@ -1,7 +1,7 @@
 ---
 title: "Low of Large Numbers"
 tags:
-- #statistics
+- statistics
 ---
 # Low of Large Numbers
 LLN in short.

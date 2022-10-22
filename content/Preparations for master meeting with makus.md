@@ -50,10 +50,8 @@ I møte med Blue Planet ble vi enig om at vi bør spørre rundt på flere anlegg
 
 Vi bør omformulere spørsmåla før vi sender de. VI bør også finne ut best mulig måte å spørre spørsmåla på for å sikre oss svar. Jo tidligere vi gjør dette jo bedre er det.
 
-
-# Mål med oppgaven
+# Mål Med Oppgaven
 Mitt ønske med oppgaven er å få en god oversikt over hvilke muligheter det er i det landbaserte oppdrettsmagrkedet for teknologiløsninger. I tillegg finne ut av hvordan en teknologiløsning skal kunne bli solgt til markedet.
-
 
 # Oppgaveforslag
 Frist for dette er 15 november. Innen den tid bør vi ha gjort en del jobb for å vøre ha en god forståelse av hvordan oppgaven vår vil se ut.
@@ -61,7 +59,5 @@ Frist for dette er 15 november. Innen den tid bør vi ha gjort en del jobb for �
 Jeg er ganske sikker på at selve problemstillingen kan endres i løpet av Vår semesteret, så det er ikke krise om vi ikke klarer å formulere den helt riktig med en gang.
 
 # Arbeidsmengde
-Jeg tenker det er lurt om vi setter av minimum 3 dager i uken vi jobber samtidig. Jeg tenker også vi bør starte med dette med en gang skolen starter igjen, så typ 6. januar. De tre dagene jobber vi ca 8 timer dagen. Det blir perioder vi må jobbe mer enn 3 dager i uka, men 3 dager er minimum. 
-
-
+Jeg tenker det er lurt om vi setter av minimum 3 dager i uken vi jobber samtidig. Jeg tenker også vi bør starte med dette med en gang skolen starter igjen, så typ 6. januar. De tre dagene jobber vi ca 8 timer dagen. Det blir perioder vi må jobbe mer enn 3 dager i uka, men 3 dager er minimum.
 

@@ -1,7 +1,7 @@
 ---
 title: "Tv-Show Taboo"
 tags:
-- #tv-show
+- tv-show
 - 
 ---
 # Tv-Show Taboo

@@ -1,9 +1,9 @@
-# Week 2 Chapter 1 - The Importance of Context. Exploratory vs. Explanatory Analysis
-#cis5250 #visual-analytics 
+# Week 2 Chapter 1 - The Importance of Context. Exploratory Vs. Explanatory Analysis
+#cis5250 #visual-analytics
 
 ## Labs
 Make a word document and prefix the file with your last name "Refnin_XXX"
-I will make the 
+I will make the
 
 [[What if analysis]]
 
@@ -17,13 +17,13 @@ I will make the
 
 [[SAS Lab 5 Import File]]
 
-## SAS project
+## SAS Project
 Start thinking of SAS projects. Should be business themed.
 - linear regression
 - t-tests
-- ...
+- …
 
 homework, view video
 
-devansh 
+devansh
 vemund

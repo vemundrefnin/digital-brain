@@ -1,19 +1,15 @@
 ---
 title: "Konglig arkitektur"
 tags:
-- #arcitecture
-- #royal
+- arcitecture
+- royal
 ---
-# Konglig arkitektur
-
-
+# Konglig Arkitektur
 
 - oseteindisk
 - delf porsjelen
 
-
 Lysekronner og lampetter:
-
 
 Rosenhave
 

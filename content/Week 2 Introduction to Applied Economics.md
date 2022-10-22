@@ -1,5 +1,5 @@
 # Week 2 Introduction to Applied Economics
-#econ5100 #microeconomics  #calstate 
+#econ5100 #microeconomics  #calstate
 
 Read [[NBER Program Report Children]]
 
@@ -19,6 +19,7 @@ The exam will not be crazy hard, but need to read up for the exam.
 - Profit maximisation
 - Patronal Equilibrium (Competitive market)
 
+[[Review Paper Guide]]
 review papers:
 - What is the main research question
 - Method and data
@@ -49,13 +50,12 @@ Economic models
 
 Two general methods used to verify economic models:
 - Direct approach
-  establishes v….In 
+  establishes v….In
 - …
 
 **Exogenous variable**, outside variables. Variables I can not change such as price of a product.
 
 **Endogenous**, internal variables. Changeable variables. How many people I want to hire.
-
 
 **Water diamond paradox**: The price of a diamond is much higher than diamond. Even though wee need water more than a diamond, the diamond is more expensive.
 The people mining the diamond said it it very demanding to mine diamonds and they ar every rare. Water is easy to get. you can have so much water that additional value of more water is very low.
@@ -72,7 +72,7 @@ what is your take or creatique.
 can have a presentation on powerpoint.
 500 word review.
 
-## Economic models
+## Economic Models
 Empirical economics use real-world data to test and refine models.
 
 Difficult to splitt between correlation and causation.
@@ -84,17 +84,9 @@ Difficult to splitt between correlation and causation.
 3. Find the data
 4. Interpret your findings
 
-
-## Student presentation
+## Student Presentation
 Uniform pricing.
 high income %9 less on grocery store and 5% more in drugstores.
 
-
-
-
 no class next week (05-09-2022)
-
-
-
-
 

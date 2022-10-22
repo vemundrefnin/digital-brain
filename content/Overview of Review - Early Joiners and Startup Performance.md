@@ -1,8 +1,8 @@
 ---
 title: "Overview of Review - Early Joiners and Startup Performance"
 tags:
-- #econ5100 
-- #engagement-paper 
+- econ5100 
+- engagement-paper 
 ---
 # Overview of Review - Early Joiners and Startup Performance
 Article on [NBER](https://www.nber.org/papers/w28417)

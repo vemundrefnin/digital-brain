@@ -4,7 +4,7 @@ tags:
 - not finished
 ---
 # Public or Private Digital Brain
-When it comes to choosing to have the Digital 🧠 public or not there is three options. 
+When it comes to choosing to have the Digital 🧠 public or not there is three options.
 
 1. Private - The Github repo[^1] and the digital brain website is only accessible for me.
 2. Public - The Github repo and the digital brain website is public.
@@ -12,7 +12,7 @@ When it comes to choosing to have the Digital 🧠 public or not there is three 
 
 These three options will be described in the next chapters.
 
-[^1]: Repo is short for repository. A repository is a place where code is stored. 
+[^1]: Repo is short for repository. A repository is a place where code is stored.
 
 I have currently chosen option 3, partly private using the Quartz ignore approach.
 
@@ -26,13 +26,13 @@ By making it private I loose the ability to simply update my website with the la
 | Pros              | Cons                 |
 | ----------------- | -------------------- |
 | No privacy issues | Not simple to update |
-| Accessibility     | Not shareable       | 
+| Accessibility     | Not shareable       |
 ## Public
 Todo
 ## Partly Private
 The main reason for this alternative is to choose what should be private or not. The main concern is how the notes should be held private. The website itself must be public, but the repo can be public or private. There are some pros and cons for both. Read more about ignoring notes in [Quartz Ignoring Notes documentation](https://quartz.jzhao.xyz/notes/ignore-notes/).
 
-In a public repo you might think that every note is available for everyone. This is not true when `gitignore` is used. There are several pros and cons with this approach. 
+In a public repo you might think that every note is available for everyone. This is not true when `gitignore` is used. There are several pros and cons with this approach.
 
 | Pros                                                                        | Cons                                                                                                            |
 | --------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |

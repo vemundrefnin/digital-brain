@@ -3,4 +3,3 @@ title: "{{title}}"
 tags:
 - 
 ---
-# {{title}}

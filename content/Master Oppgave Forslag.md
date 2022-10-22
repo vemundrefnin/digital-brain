@@ -3,7 +3,7 @@ title: "Oppgave forslag"
 tags:
 - master-thesis
 ---
-# Oppgave forslag
+# Oppgave Forslag
 [Skrives her](https://uis.service-now.com/stud/?id=stud_catalog_item&sys_id=41986c2adbe42300ce79f69f2996197a)
 I forslag trenger vi:
 - Tittel eller problemstilling for oppgave
@@ -15,13 +15,13 @@ I forslag trenger vi:
 - Kontaktperson telefon
 - Andre kommentarer
 
-## Før vi lager forslag
+## Før Vi Lager Forslag
 - [[Starte kontakt med landbaserte anlegg]]
 - Ha en god dialog med Blue Planet
-	- Samarbeids- kontrakt/dokument
+	- Samarbeidskontrakt/dokument
 	- Sende over "til bedriften" dokument
 	- Får kontaktinformasjon
-- Kontakte Veiledere 
+- Kontakte Veiledere
 	1. [Atle Øglend](mailto:atle.oglend@uis.no)
 	2. [Knut Erik Bang](mailto:knut.e.bang@uis.no)
 	3. [Roy Endre Dahl](mailto:roy.e.dahl@uis.no)

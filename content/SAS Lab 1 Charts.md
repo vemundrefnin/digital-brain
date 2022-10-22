@@ -1,4 +1,4 @@
-#visual-analytics #cis5250 
+#visual-analytics #cis5250
 # SAS Lab 1 Charts
 
 ![](attachments/Pasted%20image%2020220904001906.png)

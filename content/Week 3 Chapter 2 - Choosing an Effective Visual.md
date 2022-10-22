@@ -1,8 +1,8 @@
 ---
 title: "Week 3 Chapter 2 - Choosing an Effective Visual"
 tags:
-- #visual-analytics 
-- #cis5250 
+- visual-analytics 
+- cis5250 
 ---
 # Week 3 Chapter 2 - Choosing an Effective Visual
 

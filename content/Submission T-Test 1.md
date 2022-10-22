@@ -2,8 +2,8 @@
 ---
 title: "Submission T-Test 1"
 tags:
-- #visual-analytics 
-- #cis5250 
+- #visual-analytics
+- #cis5250
 - #
 ---
 # Submission T-Test 1

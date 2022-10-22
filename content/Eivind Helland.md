@@ -1,7 +1,7 @@
 ---
 title: "Eivind Helland"
 tags:
-- #person
+- person
 ---
 # Eivind Helland
 email: eivind.helland@blueplanet.no

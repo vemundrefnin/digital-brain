@@ -3,7 +3,7 @@ title: "R-studio Lab -  R Data Frames Lab (in class)"
 tags:
 - 
 ---
-# R-studio Lab -  R Data Frames Lab (in class)
+# R-studio Lab - R Data Frames Lab (in class)
 
 ![](attachments/Pasted%20image%2020221005181656.png)
 

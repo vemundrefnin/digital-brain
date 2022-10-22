@@ -1,8 +1,8 @@
 ---
 title: "Submission T-Test 2"
 tags:
-- #visual-analytics 
-- #cis5250 
+- visual-analytics 
+- cis5250 
 ---
 # Submission T-Test 2
 ![](attachments/Pasted%20image%2020220921192840.png)

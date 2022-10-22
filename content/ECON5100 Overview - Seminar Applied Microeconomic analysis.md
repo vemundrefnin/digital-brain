@@ -1,5 +1,5 @@
 # ECON5100 Overview - Seminar: Applied Microeconomic analysis
-#econ5100 #course #microeconomics 
+#econ5100 #course #microeconomics
 On [canvas](https://calstatela.instructure.com/courses/83207)
 [[Dr. Gokhan Kumpas]]
 Books (might find pdf versions for free):

@@ -1,8 +1,8 @@
 ---
 title: "T-test"
 tags:
-- #visual-analytics 
-- #cis5250
+- visual-analytics 
+- cis5250
 description: "This note was created in the class visual analytics. Additional information was gathererd form investopedia"
 ---
 # T-test

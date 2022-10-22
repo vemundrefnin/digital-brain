@@ -5,9 +5,7 @@ tags:
 ---
 # Week 4 Deepening the Economic Model of Behavior
 
-
-If not OK on paper review. 
-
+If not OK on paper review.
 
 Behaviour economy
 The ration choice model is not perfect. There are some biases:
@@ -30,17 +28,9 @@ One should not pay attention to sunk costs when making economic decisions.
 Bias 5 Generosity and selflessness
 donating bacause others utiltiy matters to you.
 
-
-
-
-
 Next week we will look more into specific papers. Crime. Mental health. etc.
 
-Freconomics. levit one of the auther, he has looked at crime in NYC and the abortion. The inpact of legaliced abortion. 
+Freconomics. levit one of the auther, he has looked at crime in NYC and the abortion. The inpact of legaliced abortion.
 
 Divorce policy. Needed consent of other party.
-
-
-
-
 

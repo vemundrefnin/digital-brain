@@ -1,6 +1,5 @@
 # Dr. Gokhan Kumpas
-#person #professor #econ5100 #microeconomics 
-
+#person #professor #econ5100 #microeconomics
 
 **Office Location:** ST907
 

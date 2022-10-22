@@ -1,9 +1,9 @@
 ---
 title: "Show Me the Numbers - Book notes"
 tags:
-- #econ5100 
-- #microeconomics 
-- #book-notes
+- econ5100 
+- microeconomics 
+- book-notes
 ---
 # Show Me the Numbers - Book Notes
 A book about how to best display numbers. This is closely related to #visual-analytics #cis5250.
@@ -23,7 +23,7 @@ Real purpose of quantitative displays: *to provide the reader with important, me
 -[[Edward Tufte]]
 
 ## 3. Differing Roles of Tables and Graphs
-No graph or table needed for very little data. Can be explained in a sentence. For example: 
+No graph or table needed for very little data. Can be explained in a sentence. For example:
 **Q2 Sales = $1,400,000, exceeding forecast by 16%**
 
 But it could be structured in a tabular form such as this:
@@ -43,7 +43,7 @@ or this:
   </tr>
 </table>
 
-Choosing whether to display data in one or mare tables, one ore more graph or some combination fo the two, is  a fundamental challenge of data presentation. This decision should never be arbitrary.
+Choosing whether to display data in one or mare tables, one ore more graph or some combination fo the two, is a fundamental challenge of data presentation. This decision should never be arbitrary.
 
 Use a table if one or more of the following is true:
 1. The display will be used to look up individual values.
@@ -52,5 +52,5 @@ Use a table if one or more of the following is true:
 4. The quantitative information to be communicated involves more than one unit of measure.
 5. Both summary and detail values are included.
 
-A question I can think of when reading this is: 
+A question I can think of when reading this is:
 "Since the improvement of interactive data visualization do the old theory about graph and table still hold."

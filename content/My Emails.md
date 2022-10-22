@@ -5,7 +5,7 @@ Forwarded to my gmail. I have a feeling this takes a while.
 Think it might take up to 3 minutes for simple emails.
 And longer for emails with attachments.
 
-## Samsung note 9
+## Samsung Note 9
 logged in to
 Outlook:
 - 248926@uis.no

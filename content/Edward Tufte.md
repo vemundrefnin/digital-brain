@@ -2,7 +2,7 @@
 title: "Edward Tufte"
 tags:
 - person
-- #visual-analytics 
+- visual-analytics 
 ---
 # Edward Tufte
 Well known expert in visual analytics
