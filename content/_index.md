@@ -1,9 +1,8 @@
 ---
-title: 🧠 Vemund´s Digital Brain
+publish: 🧠 Vemund´s Digital Brain
 ---
-# _index
 
-This is my Digital Garden.
+This is my Digital Brain.
 
 Almost every note I take will be accessible here. It does not matter if it is related to work, school, feelings, opinions or if it is unfinished or not correct.
 
