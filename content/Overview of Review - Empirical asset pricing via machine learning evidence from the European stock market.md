@@ -4,7 +4,7 @@ tags:
 - 
 ---
 # Overview of Review - Empirical Asset Pricing via Machine Learning Evidence From the European Stock Market
-
+	
 [paper link](https://link.springer.com/content/pdf/10.1057/s41260-021-00237-x.pdf)
 
 [[Review - Empirical asset pricing via machine learning evidence from the European stock market]]

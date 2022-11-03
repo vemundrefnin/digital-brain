@@ -26,5 +26,15 @@ I forslag trenger vi:
 	2. [Knut Erik Bang](mailto:knut.e.bang@uis.no)
 	3. [Roy Endre Dahl](mailto:roy.e.dahl@uis.no)
 
+## Forslag skipping
+Se på sammenhenger mellom skipping og akvakulturen i Norge. Kan man bruke skipping data til å lage en total oversikt over hvor fisk i akvakulturen befinner seg? Kan skipping data brukes til å predikere akvakultur beholdningen? Oppgaven ble foreslått av [[Blue Planet]] som driver med rådgivning innen akvakultur. De er også villig til å stille som veileder for oppgaven.
+
+Skipping data er offentliggjort av Kystverket og skal ha tilstrekkelig med data for denne oppgaven. Akvakultur dataen er offentliggjort av Fiskedirektoratet, men er muligens ikke tilstrekkelig. Disse manglene kan Blue Planet tilfredstille enten med data de har fra før eller ved hjelp av sine mange kontakter i akvakultur markedet.
+
+Kontaktperson navn: **Eivind Helland**
+Kontaktperson epost: [eivind.helland@blueplanet.no](mailto:eivind.helland@blueplanet.no)
+Kontaktperson telefon: ukjent
+
+
 ## Relevant
 [Preparations for master meeting with makus](Preparations%20for%20master%20meeting%20with%20makus.md)
